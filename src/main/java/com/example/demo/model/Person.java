@@ -83,3 +83,5 @@ public class Person {
         this.point = point;
     }
 }
+
+// day laf nhanh 1
